@@ -1,0 +1,41 @@
+img{
+    width: 100px;
+    height: 140px;
+}
+td,th{
+    width: 100px;
+    height: 140px;
+}
+.first, .second, .third, .fourths, .five, .six, .seven{
+    width: 950px;
+}
+.black{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.orange{
+    background-color: coral;
+}
+.green{
+    background-color: darkgreen;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.black__2, .black__3, .first, .black__4{
+    height: 30px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
